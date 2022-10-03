@@ -6,3 +6,4 @@ So I guess, I will just keep solving at least one problem every day.
 - Day 1 (03/10/2022): [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/longestcommonprefix.py)
 - Day 1 (03/10/2022): [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/roman_to_int.py)
 - Day 1 (03/10/2022): [3sum](https://leetcode.com/problems/3sum) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/3sum.py)
+- Day 1 (03/10/2022): [3sum-closest](https://leetcode.com/problems/3sum-closest) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/3sum-closest.py)
