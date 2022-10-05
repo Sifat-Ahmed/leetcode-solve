@@ -11,3 +11,4 @@ So I guess, I will just keep solving at least one problem every day.
 - Day 2 (04/10/2022): [Two Sum](https://leetcode.com/problems/two-sum/) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/1.two-sum.py)
 - Day 3 (05/10/2022): [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/2.add-two-numbers.py)
 - Day 3 (05/10/2022): [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/3.longest-substring-without-repeating-characters.py)
+- Day 3 (05/10/2022): [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/4.median-of-two-sorted-arrays.py)
