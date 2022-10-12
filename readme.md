@@ -17,4 +17,5 @@ So I guess, I will just keep solving at least one problem every day.
 - Day 6 (11/10/2022): [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/8.string-to-integer-atoi.py)
 - Day 6 (11/10/2022): [Container with Most Water](https://leetcode.com/problems/container-with-most-water) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/11.container-with-most-water.py)
 - Day 6 (11/10/2022): [Integer to Roman](https://leetcode.com/problems/integer-to-roman) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/12.integer-to-roman.py)
+- Day 7 (12/10/2022): [4 Sum](https://leetcode.com/problems/4sum) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/18.4sum.py)
 
