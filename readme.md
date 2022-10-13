@@ -18,5 +18,7 @@ So I guess, I will just keep solving at least one problem every day.
 - Day 6 (11/10/2022): [Container with Most Water](https://leetcode.com/problems/container-with-most-water) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/11.container-with-most-water.py)
 - Day 6 (11/10/2022): [Integer to Roman](https://leetcode.com/problems/integer-to-roman) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/12.integer-to-roman.py)
 - Day 7 (12/10/2022): [4 Sum](https://leetcode.com/problems/4sum) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/18.4sum.py)
-- Day 8 (12/10/2022): [Remove nth Node from the end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/19.remove-nth-node-from-end-of-list.py)
+- Day 7 (12/10/2022): [Remove nth Node from the end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/19.remove-nth-node-from-end-of-list.py)
+- Day 7 (12/10/2022): [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/20.valid-parentheses.py)
+- Day 7 (12/10/2022): [Merge two sorted list](https://leetcode.com/problems/merge-two-sorted-lists/) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/21.merge-two-sorted-lists.py)
 
