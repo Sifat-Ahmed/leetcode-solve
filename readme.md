@@ -26,4 +26,5 @@ So I guess, I will just keep solving at least one problem every day.
 - Day 8 (13/10/2022): [Reverse nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/25.reverse-nodes-in-k-group.py) 
 - Day 8 (13/10/2022): [Remove duplicates from a sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/26.remove-duplicates-from-sorted-array.py) 
 - Day 8 (13/10/2022): [Remove Element](https://leetcode.com/problems/remove-element) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/27.remove-element.py) 
+- Day 8 (13/10/2022): [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/28.find-the-index-of-the-first-occurrence-in-a-string.py) 
 
