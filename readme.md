@@ -24,4 +24,6 @@ So I guess, I will just keep solving at least one problem every day.
 - Day 8 (13/10/2022): [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/23.merge-k-sorted-lists.py)
 - Day 8 (13/10/2022): [Swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/24.swap-nodes-in-pairs.py) 
 - Day 8 (13/10/2022): [Reverse nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/25.reverse-nodes-in-k-group.py) 
+- Day 8 (13/10/2022): [Remove duplicates from a sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/26.remove-duplicates-from-sorted-array.py) 
+- Day 8 (13/10/2022): [Remove Element](https://leetcode.com/problems/remove-element) : [My Solve](https://github.com/Sifat-Ahmed/leetcode-solve/blob/main/27.remove-element.py) 
 
